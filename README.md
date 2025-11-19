@@ -4,7 +4,7 @@ This repository showcases an advanced **RFM (Recency, Frequency, Monetary) Analy
 
 The dashboard analyzes customer behavior using RFM segmentation and helps identify key customer groups such as **Champions, Loyal Customers, Big Spenders, At Risk, Lost**, and more.
 
-![RFM Analysis_PowerBI](<images/RFM Analysis_PowerBI.png>)
+![RFM Analysis_PowerBI](<images/RFM_Analysis_PowerBI.png>)
 
 ---
 
